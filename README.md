@@ -32,6 +32,7 @@ The dataset contains transactional and customer-level information, including:
 🛠 Tools & Technologies
 *Python (Pandas, NumPy, Matplotlib/Seaborn) – Data loading, EDA, cleaning
 
+
 *SQL (MySQL / PostgreSQL / SQL Server) – Data storage and analytical queries
 
 *Power BI – Interactive dashboard creation
@@ -73,26 +74,41 @@ The dataset contains transactional and customer-level information, including:
 
 4️⃣ Dashboard Development (Power BI)
 *Built an interactive dashboard including:
+
 *Revenue overview KPIs
+
 *Customer segmentation analysis
+
 *Product performance insights
+
 *Discount and shipping impact
+
 *Demographic-based revenue distribution
+
 *Interactive filters allow dynamic exploration of trends.
+
 
 
 5️⃣ Reporting & Presentation
 -Created a structured project report summarizing findings
+
 -Developed a professional presentation using Gamma
+
 -Highlighted key insights and business recommendations
+
 
 
 📊 Key Results
 -Identified high-value customer segments contributing most revenue
+
 -Observed differences in spending behavior by subscription status
+
 -Found variation in discount dependency across product categories
+
 -Detected shipping type influence on purchase amount
+
 -Revealed revenue concentration among repeat buyers
+
 
 
 🚀 How to Run the Project
@@ -101,17 +117,23 @@ The dataset contains transactional and customer-level information, including:
 
 *git clone <repository_link>
 
+
 2. Open the Jupyter Notebook to review:
 
 *Data loading
+
 *EDA
+
 
 3. Cleaning process
 
 *Import the cleaned dataset into your preferred SQL database (MySQL / PostgreSQL / SQL Server).
+
 *Run the SQL scripts provided in the repository.
 
+
 4. Open the Power BI (.pbix) file to explore the interactive dashboard.
+
 
 5. Review the final report and presentation for summarized insights.
 
@@ -129,15 +151,24 @@ customer_behavior_analysis/
 
 💼 Skills Demonstrated
 -Data Cleaning & Exploratory Data Analysis
+
 -SQL Query Writing & Business KPI Analysis
+
 -Customer Segmentation
+
 -Dashboard Development & Data Storytelling
+
 -End-to-End Analytics Workflow
+
 -Business Insight Communication
+
 
 
 📌 Conclusion
 
 This project demonstrates the complete data analytics lifecycle — from raw data processing to structured database analysis and executive-level dashboard reporting.
+
 It reflects practical, job-ready skills required for entry-level data analyst roles.# customer_behavior_data_analysis
+
 End-to-end customer behavior data analysis project using Python for data cleaning, MySQL for SQL-based business analysis, and Power BI for interactive dashboard visualization and insight generation.
+
