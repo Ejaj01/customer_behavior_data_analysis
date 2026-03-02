@@ -104,7 +104,7 @@ The dataset contains transactional and customer-level information, including:
 
 
 
-📊 Key Results
+📊 Key Insights
 
 -Identified high-value customer segments contributing most revenue
 
@@ -144,6 +144,8 @@ The dataset contains transactional and customer-level information, including:
 
 5. Review the final report and presentation for summarized insights.
 
+
+
 📁 Project Structure
 
 customer_behavior_analysis/
@@ -161,7 +163,6 @@ customer_behavior_analysis/
 ├── Presentation_Gamma.pptx
 
 └── README.md
-
 
 
 
@@ -183,12 +184,9 @@ customer_behavior_analysis/
 
 📌 Conclusion
 
-This project demonstrates the complete data analytics lifecycle — from raw data processing to structured database analysis and executive-level dashboard reporting.
+This project showcases an end-to-end data analytics pipeline that converts raw retail transaction data into meaningful business insights. By leveraging Python for data preparation, SQL for analytical querying, and Power BI for visualization, the analysis delivers clear insights into customer behavior, revenue drivers, and product performance.
 
-It reflects practical, job-ready skills required for entry-level data analyst roles.# customer_behavior_data_analysis
-
-End-to-end customer behavior data analysis project using Python for data cleaning, MySQL for SQL-based business analysis, and Power BI for interactive dashboard visualization and insight generation.
-
+The results highlight key customer segments, purchasing trends, and factors influencing spending patterns, enabling data-driven decisions in marketing, retention strategy, and revenue optimization.
 
 ### Power BI Dashboard
 <img width="195" height="118" alt="image1" src="https://github.com/user-attachments/assets/aef3c99f-2db7-47a8-af82-3af24aa9468a" />
