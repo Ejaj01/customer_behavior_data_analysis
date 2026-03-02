@@ -189,17 +189,16 @@ This project showcases an end-to-end data analytics pipeline that converts raw r
 The results highlight key customer segments, purchasing trends, and factors influencing spending patterns, enabling data-driven decisions in marketing, retention strategy, and revenue optimization.
 
 ### Power BI Dashboard
-<img width="195" height="118" alt="image1" src="https://github.com/user-attachments/assets/aef3c99f-2db7-47a8-af82-3af24aa9468a" />
+<img width="914" height="541" alt="image8" src="https://github.com/user-attachments/assets/dfe171a3-66b4-499d-99ba-11c5228c19d2" />
 
 
 ### SQL Analysis Example
 <img width="211" height="124" alt="image4" src="https://github.com/user-attachments/assets/37116901-8f1c-47fd-854a-c30f1d37eeb8" />
-<img width="382" height="243" alt="image11" src="https://github.com/user-attachments/assets/6197d2a5-3a64-4cc7-8b91-cd4d298b7f10" />
+
 <img width="438" height="128" alt="image2" src="https://github.com/user-attachments/assets/3d8d83f9-f4b4-46e4-a533-c4e4e6a9e88b" />
 
 
 ### Python EDA
-<img width="506" height="509" alt="image3" src="https://github.com/user-attachments/assets/3c29f6b0-33b9-4468-8930-69aba2ae1303" />
 <img width="941" height="374" alt="image13" src="https://github.com/user-attachments/assets/3b79c638-c170-44ae-9fa9-b8c4450c01bc" />
 
 
