@@ -10,6 +10,7 @@ The project covers data loading, exploratory data analysis (EDA), data cleaning,
 
 📂 Dataset
 The dataset contains transactional and customer-level information, including:
+
 -Customer demographics (age, gender)
 
 -Product details and categories
@@ -30,6 +31,7 @@ The dataset contains transactional and customer-level information, including:
 
 
 🛠 Tools & Technologies
+
 *Python (Pandas, NumPy, Matplotlib/Seaborn) – Data loading, EDA, cleaning
 
 
@@ -59,6 +61,7 @@ The dataset contains transactional and customer-level information, including:
 
 
 3️⃣ SQL Analysis (MySQL / PostgreSQL / SQL Server)
+
 1. Imported cleaned dataset into relational database
 2. Structured data for business analysis
 3. Executed SQL queries to evaluate:
@@ -73,6 +76,7 @@ The dataset contains transactional and customer-level information, including:
 
 
 4️⃣ Dashboard Development (Power BI)
+
 *Built an interactive dashboard including:
 
 *Revenue overview KPIs
@@ -90,6 +94,7 @@ The dataset contains transactional and customer-level information, including:
 
 
 5️⃣ Reporting & Presentation
+
 -Created a structured project report summarizing findings
 
 -Developed a professional presentation using Gamma
@@ -99,6 +104,7 @@ The dataset contains transactional and customer-level information, including:
 
 
 📊 Key Results
+
 -Identified high-value customer segments contributing most revenue
 
 -Observed differences in spending behavior by subscription status
@@ -138,18 +144,28 @@ The dataset contains transactional and customer-level information, including:
 5. Review the final report and presentation for summarized insights.
 
 📁 Project Structure
+
 customer_behavior_analysis/
+
 │
+
 ├── data_cleaning_eda.ipynb
+
 ├── sql_queries.sql
+
 ├── dashboard.pbix
+
 ├── Final_Report.pdf
+
 ├── Presentation_Gamma.pptx
+
 └── README.md
 
 
 
+
 💼 Skills Demonstrated
+
 -Data Cleaning & Exploratory Data Analysis
 
 -SQL Query Writing & Business KPI Analysis
