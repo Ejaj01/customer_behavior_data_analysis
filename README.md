@@ -18,6 +18,7 @@ The dataset contains transactional and customer-level information, including:
 -Purchase amount
 
 -Discount usage
+<img width="914" height="541" alt="image8" src="https://github.com/user-attachments/assets/6bfae99c-88f1-4f50-b761-e580400019f0" />
 
 -Review ratings
 
