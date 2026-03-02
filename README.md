@@ -18,7 +18,6 @@ The dataset contains transactional and customer-level information, including:
 -Purchase amount
 
 -Discount usage
-<img width="914" height="541" alt="image8" src="https://github.com/user-attachments/assets/6bfae99c-88f1-4f50-b761-e580400019f0" />
 
 -Review ratings
 
@@ -91,6 +90,7 @@ The dataset contains transactional and customer-level information, including:
 *Demographic-based revenue distribution
 
 *Interactive filters allow dynamic exploration of trends.
+
 
 
 
@@ -188,4 +188,20 @@ This project demonstrates the complete data analytics lifecycle — from raw dat
 It reflects practical, job-ready skills required for entry-level data analyst roles.# customer_behavior_data_analysis
 
 End-to-end customer behavior data analysis project using Python for data cleaning, MySQL for SQL-based business analysis, and Power BI for interactive dashboard visualization and insight generation.
+
+
+### Power BI Dashboard
+<img width="195" height="118" alt="image1" src="https://github.com/user-attachments/assets/aef3c99f-2db7-47a8-af82-3af24aa9468a" />
+
+
+### SQL Analysis Example
+<img width="211" height="124" alt="image4" src="https://github.com/user-attachments/assets/37116901-8f1c-47fd-854a-c30f1d37eeb8" />
+<img width="382" height="243" alt="image11" src="https://github.com/user-attachments/assets/6197d2a5-3a64-4cc7-8b91-cd4d298b7f10" />
+<img width="438" height="128" alt="image2" src="https://github.com/user-attachments/assets/3d8d83f9-f4b4-46e4-a533-c4e4e6a9e88b" />
+
+
+### Python EDA
+<img width="506" height="509" alt="image3" src="https://github.com/user-attachments/assets/3c29f6b0-33b9-4468-8930-69aba2ae1303" />
+<img width="941" height="374" alt="image13" src="https://github.com/user-attachments/assets/3b79c638-c170-44ae-9fa9-b8c4450c01bc" />
+
 
