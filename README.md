@@ -11,21 +11,33 @@ The project covers data loading, exploratory data analysis (EDA), data cleaning,
 📂 Dataset
 The dataset contains transactional and customer-level information, including:
 -Customer demographics (age, gender)
+
 -Product details and categories
+
 -Purchase amount
+
 -Discount usage
+
 -Review ratings
+
 -Shipping type
+
 -Subscription status
+
 -Purchase history
+
 -The data simulates real-world retail transactions used for business decision-making.
 
 
 🛠 Tools & Technologies
 *Python (Pandas, NumPy, Matplotlib/Seaborn) – Data loading, EDA, cleaning
+
 *SQL (MySQL / PostgreSQL / SQL Server) – Data storage and analytical queries
+
 *Power BI – Interactive dashboard creation
+
 *Gamma – Presentation (PPT) design
+
 *Jupyter Notebook – Development environment
 
 
