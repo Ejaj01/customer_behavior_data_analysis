@@ -1,6 +1,6 @@
 🛍️ Customer Behavior Data Analytics Project
 
-End-to-End Analytics Pipeline (Python • SQL • Power BI)
+Analytics Pipeline (Python • SQL • Power BI)
 
 📌 Overview
    This project presents a complete end-to-end data analytics workflow focused on analyzing customer purchasing behavior for a retail business.
